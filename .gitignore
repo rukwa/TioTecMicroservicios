@@ -1,0 +1,14 @@
+# Maven y compilados
+target/
+*.class
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+.sts4-cache/
